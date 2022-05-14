@@ -21,7 +21,7 @@ public class Number_1094 {
             if (result == x) {
                 System.out.println(count);
                 break;
-            }else if(stick == x){ // 막대기의 길이와 원하는 길이가 일치하는 경우
+            } else if (stick == x) { // 막대기의 길이와 원하는 길이가 일치하는 경우
                 System.out.println(1);
                 break;
             }
@@ -32,7 +32,7 @@ public class Number_1094 {
                 // 반으로 자른 막대 + 현재까지 만들어진 길이의 합이 x보다 또 크다면
                 // 또 막대기의 길이를 반으로 자른다
                 // 반복...
-                if (result+stick > x) {
+                if (result + stick > x) {
                     stick = stick / 2;
                 } else {
                     break;

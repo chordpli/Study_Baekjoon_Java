@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_12 12:31 해설 참고">
-      <change afterPath="$PROJECT_DIR$/src/study06/Number_1094.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_15 12:43">
+      <change beforePath="$PROJECT_DIR$/src/study06/Number_1094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study06/Number_1094.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,7 @@
       <workItem from="1652363871901" duration="3597000" />
       <workItem from="1652432422452" duration="2528000" />
       <workItem from="1652518400991" duration="626000" />
-      <workItem from="1652539989296" duration="2815000" />
+      <workItem from="1652539989296" duration="2920000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -201,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652369506049</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="22_05_15 12:43">
+      <created>1652543033529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652543033529</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +233,7 @@
     <MESSAGE value="22_05_11 23:35" />
     <MESSAGE value="22_05_11 12:06" />
     <MESSAGE value="22_05_12 12:31 해설 참고" />
-    <option name="LAST_COMMIT_MESSAGE" value="22_05_12 12:31 해설 참고" />
+    <MESSAGE value="22_05_15 12:43" />
+    <option name="LAST_COMMIT_MESSAGE" value="22_05_15 12:43" />
   </component>
 </project>
