@@ -17,15 +17,15 @@ public class Number_1834 {
         // 나머지
         long rest = 0;
 
-        while(true){
+        while (true) {
 
-            if(portion > n){
+            if (portion > n) {
                 break;
-            }else{
+            } else {
                 portion = i / n;
                 rest = i % n;
 
-                if(portion == rest){
+                if (portion == rest) {
                     sum += i;
                 }
             }
