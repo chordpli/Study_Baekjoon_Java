@@ -42,3 +42,5 @@ public class Number_1764 {
 
     }
 }
+
+// retainAll 사용.
