@@ -36,10 +36,7 @@ public class Number_1292 {
         for(int i= a; i <= b; i++ ){
             result += iArr.get(i);
         }
-
         System.out.println(result);
-
-
     }
 }
 

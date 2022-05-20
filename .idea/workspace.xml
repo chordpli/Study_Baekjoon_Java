@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_16 01:33 시간초과">
-      <change afterPath="$PROJECT_DIR$/src/study07/Number_1292.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study07/Number_1629.java" afterDir="false" />
+    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_20 01:54 카드 분배까지 완료, 게임 구현 실패">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study06/Number_1094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study06/Number_1094.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study06/Number_1764.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study06/Number_1764.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study07/Number_1292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_1292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study07/Number_1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_1629.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study07/Number_1834.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_1834.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study07/Number_5587.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_5587.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,28 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/javaStudy/CodeTest/22_05",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/javaStudy/CodeTest/Study_Baekjoon_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\javaStudy\CodeTest\Study_Baekjoon_Java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Number_1292">
+  <component name="RunManager" selected="애플리케이션.Number_5587">
     <configuration name="Number_1292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study07.Number_1292" />
       <module name="Study_Baekjoon_Java" />
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study07.Number_1629" />
+    <configuration name="Number_14912" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study07.Number_14912" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study06.Number_1764" />
+    <configuration name="Number_1834" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study07.Number_1834" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study06.*" />
+          <option name="PATTERN" value="study07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_1764_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study06.Number_1764_2" />
+    <configuration name="Number_1834_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study07.Number_1834_2" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study06.*" />
+          <option name="PATTERN" value="study07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_3054_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study06.Number_3054_2" />
+    <configuration name="Number_5587" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study07.Number_5587" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study06.*" />
+          <option name="PATTERN" value="study07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Number_5587" />
+        <item itemvalue="애플리케이션.Number_14912" />
+        <item itemvalue="애플리케이션.Number_1834_2" />
+        <item itemvalue="애플리케이션.Number_1834" />
         <item itemvalue="애플리케이션.Number_1292" />
-        <item itemvalue="애플리케이션.Number_1629" />
-        <item itemvalue="애플리케이션.Number_1764" />
-        <item itemvalue="애플리케이션.Number_1764_2" />
-        <item itemvalue="애플리케이션.Number_3054_2" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,9 @@
       <workItem from="1652605383526" duration="13206000" />
       <workItem from="1652693709246" duration="2731000" />
       <workItem from="1652791128737" duration="5801000" />
-      <workItem from="1652881936356" duration="2283000" />
+      <workItem from="1652881936356" duration="6053000" />
+      <workItem from="1652921977375" duration="7554000" />
+      <workItem from="1653038771030" duration="3398000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -246,7 +248,49 @@
       <option name="project" value="LOCAL" />
       <updated>1652632457219</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="22_05_19 12:18">
+      <created>1652887099302</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652887099302</updated>
+    </task>
+    <task id="LOCAL-00015" summary="22_05_19 01:39">
+      <created>1652891960553</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652891960553</updated>
+    </task>
+    <task id="LOCAL-00016" summary="22_05_19 01:39 시간초과로 인한 실패">
+      <created>1652892011418</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1652892011418</updated>
+    </task>
+    <task id="LOCAL-00017" summary="22_05_19 10:01 주석추가">
+      <created>1652922097589</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652922097589</updated>
+    </task>
+    <task id="LOCAL-00018" summary="22_05_20 01:54">
+      <created>1652979288117</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652979288117</updated>
+    </task>
+    <task id="LOCAL-00019" summary="22_05_20 01:54 카드 분배까지 완료, 게임 구현 실패">
+      <created>1652979304887</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652979304887</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,17 +321,12 @@
     <MESSAGE value="22_05_16 12:13" />
     <MESSAGE value="22_05_16 01:33" />
     <MESSAGE value="22_05_16 01:33 시간초과" />
-    <option name="LAST_COMMIT_MESSAGE" value="22_05_16 01:33 시간초과" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/study07/Number_1629.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="22_05_19 12:18" />
+    <MESSAGE value="22_05_19 01:39" />
+    <MESSAGE value="22_05_19 01:39 시간초과로 인한 실패" />
+    <MESSAGE value="22_05_19 10:01 주석추가" />
+    <MESSAGE value="22_05_20 01:54" />
+    <MESSAGE value="22_05_20 01:54 카드 분배까지 완료, 게임 구현 실패" />
+    <option name="LAST_COMMIT_MESSAGE" value="22_05_20 01:54 카드 분배까지 완료, 게임 구현 실패" />
   </component>
 </project>

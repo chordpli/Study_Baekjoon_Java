@@ -1,9 +1,6 @@
 package study07;
 
-import com.sun.org.apache.bcel.internal.generic.DDIV;
-
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
@@ -46,17 +43,6 @@ public class Number_5587 {
 
 
         System.out.println(sang.size());
-
-
-
-
-
-
-
-
-
-
-
 
 
         sc.close();

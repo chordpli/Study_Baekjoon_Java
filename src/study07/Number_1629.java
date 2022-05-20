@@ -17,8 +17,6 @@ public class Number_1629 {
         sc.close();
     }
 
-
-
     private static long power(long a, long b, long c){
     // long a는 자연수 A
     // long b는 곱할 횟수

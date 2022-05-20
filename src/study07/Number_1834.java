@@ -7,7 +7,6 @@ public class Number_1834 {
         Scanner sc = new Scanner(System.in);
 
         long n = sc.nextInt();
-
         long sum = 0;
 
         //나눌 숫자
