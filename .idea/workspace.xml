@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_20 01:54 카드 분배까지 완료, 게임 구현 실패">
+      <change afterPath="$PROJECT_DIR$/src/study08/Number_10610.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study07/Number_1292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_1292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study07/Number_1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_1629.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study07/Number_1834.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_1834.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study07/Number_5587.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study07/Number_5587.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,13 +53,13 @@
       <recent name="C:\javaStudy\CodeTest\Study_Baekjoon_Java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Number_5587">
-    <configuration name="Number_1292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study07.Number_1292" />
+  <component name="RunManager" selected="애플리케이션.Number_10610">
+    <configuration name="Number_10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study08.Number_10610" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study07.*" />
+          <option name="PATTERN" value="study08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Number_10610" />
         <item itemvalue="애플리케이션.Number_5587" />
         <item itemvalue="애플리케이션.Number_14912" />
         <item itemvalue="애플리케이션.Number_1834_2" />
         <item itemvalue="애플리케이션.Number_1834" />
-        <item itemvalue="애플리케이션.Number_1292" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +150,8 @@
       <workItem from="1652881936356" duration="6053000" />
       <workItem from="1652921977375" duration="7554000" />
       <workItem from="1653038771030" duration="3398000" />
+      <workItem from="1653063633889" duration="752000" />
+      <workItem from="1653143699651" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
