@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_23 23:57 시간초과">
-      <change afterPath="$PROJECT_DIR$/src/study08/Number_10828_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_23 12:04 Buffer로 시간초과 해결" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +152,7 @@
       <workItem from="1653038771030" duration="3398000" />
       <workItem from="1653063633889" duration="752000" />
       <workItem from="1653143699651" duration="567000" />
-      <workItem from="1653311600388" duration="6186000" />
+      <workItem from="1653311600388" duration="6216000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -332,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653317879102</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="22_05_23 12:04 Buffer로 시간초과 해결">
+      <created>1653318255590</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1653318255590</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +377,8 @@
     <MESSAGE value="22_05_23 23:13 트리맵으로 해결" />
     <MESSAGE value="22_05_23 23:26" />
     <MESSAGE value="22_05_23 23:57 시간초과" />
-    <option name="LAST_COMMIT_MESSAGE" value="22_05_23 23:57 시간초과" />
+    <MESSAGE value="22_05_23 12:04 Buffer로 시간초과 해결" />
+    <option name="LAST_COMMIT_MESSAGE" value="22_05_23 12:04 Buffer로 시간초과 해결" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
