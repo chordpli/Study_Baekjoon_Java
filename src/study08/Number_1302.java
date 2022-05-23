@@ -31,6 +31,7 @@ public class Number_1302 {
 
         //Iterator
         Set<Entry<String, Integer>> entrySet = book.entrySet();
+
         for(Entry<String, Integer> entry : entrySet){
             if(maxEntry == null || entry.getValue() > (maxEntry.getValue())){
                 maxEntry = entry;
@@ -43,24 +44,10 @@ public class Number_1302 {
 
 
 /*
+공부 목록
 
-// 내림 차순
-        // Map.Entry 리스트 작성
-        List<Entry<String, Integer>> list_entries = new ArrayList<Entry<String, Integer>>(book.entrySet());
+Entry
+HashMap
+TreeMap
 
-        // 비교함수 Comparator를 사용하여 내림차순으로 정렬
-        Collections.sort(list_entries, new Comparator<Entry<String, Integer>>() {
-            @Override
-            public int compare(Entry<String, Integer> o1, Entry<String, Integer> o2) {
-
-                // 내림차순으로 정렬
-                return o2.getValue().compareTo(o1.getValue());
-            }
-        });
-
-        Set<String> keySet = book.keySet();
-
-        for (String key : keySet) {
-            System.out.println(key + " : " + book.get(key));
-        }
  */
