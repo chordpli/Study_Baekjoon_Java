@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_23 23:13 트리맵으로 해결">
-      <change beforePath="$PROJECT_DIR$/src/study08/Number_1302.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study08/Number_1302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study08/Number_10828.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study08/Number_1302_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study08/Number_1302_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +155,7 @@
       <workItem from="1653038771030" duration="3398000" />
       <workItem from="1653063633889" duration="752000" />
       <workItem from="1653143699651" duration="567000" />
-      <workItem from="1653311600388" duration="3821000" />
+      <workItem from="1653311600388" duration="3995000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -303,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653315332992</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="22_05_23 23:13 트리맵으로 해결">
+      <created>1653315812059</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1653315812059</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

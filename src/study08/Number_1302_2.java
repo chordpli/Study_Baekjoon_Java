@@ -39,6 +39,8 @@ public class Number_1302_2 {
         }
 
         System.out.println(maxEntry.getKey());
+
+        br.close();
     }
 }
 
