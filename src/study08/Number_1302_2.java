@@ -27,6 +27,7 @@ public class Number_1302_2 {
                 book.put(input, 1);
             }
         }
+
         //Max
         Map.Entry<String, Integer> maxEntry = null;
 
