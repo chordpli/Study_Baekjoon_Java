@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_23 12:04 Buffer로 시간초과 해결">
-      <change afterPath="$PROJECT_DIR$/src/study09/Number_18258.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study09/Number_18258_2.java" afterDir="false" />
+    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_26 12:33 해결">
+      <change afterPath="$PROJECT_DIR$/src/study10/Number_10866.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study09/Number_18258_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study09/Number_18258_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
@@ -36,28 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/javaStudy/CodeTest/22_05",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/javaStudy/CodeTest/22_05&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\javaStudy\CodeTest\Study_Baekjoon_Java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Number_18258_2">
+  <component name="RunManager" selected="애플리케이션.Number_10866">
     <configuration name="Number_10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study08.Number_10828" />
       <module name="Study_Baekjoon_Java" />
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_1302_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study08.Number_1302_2" />
+    <configuration name="Number_10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study10.Number_10866" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study08.*" />
+          <option name="PATTERN" value="study10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Number_10866" />
         <item itemvalue="애플리케이션.Number_18258_2" />
         <item itemvalue="애플리케이션.Number_18258" />
         <item itemvalue="애플리케이션.Number_10828_2" />
         <item itemvalue="애플리케이션.Number_10828" />
-        <item itemvalue="애플리케이션.Number_1302_2" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +159,9 @@
       <workItem from="1653143699651" duration="567000" />
       <workItem from="1653311600388" duration="6628000" />
       <workItem from="1653407732826" duration="600000" />
-      <workItem from="1653485492088" duration="4230000" />
+      <workItem from="1653485492088" duration="4968000" />
+      <workItem from="1653582000744" duration="637000" />
+      <workItem from="1653714187450" duration="2834000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -349,7 +352,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653318676195</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="22_05_26 12:33 시간초과">
+      <created>1653492793241</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1653492793241</updated>
+    </task>
+    <task id="LOCAL-00029" summary="22_05_26 12:33 해결">
+      <created>1653492806948</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1653492806948</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +384,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="22_05_08 16:00 재업로드" />
     <MESSAGE value="22_05_08 20:10" />
     <MESSAGE value="22_05_08 23:43" />
     <MESSAGE value="22_05_11 12:05 주석 추가" />
@@ -391,7 +407,9 @@
     <MESSAGE value="22_05_23 23:26" />
     <MESSAGE value="22_05_23 23:57 시간초과" />
     <MESSAGE value="22_05_23 12:04 Buffer로 시간초과 해결" />
-    <option name="LAST_COMMIT_MESSAGE" value="22_05_23 12:04 Buffer로 시간초과 해결" />
+    <MESSAGE value="22_05_26 12:33 시간초과" />
+    <MESSAGE value="22_05_26 12:33 해결" />
+    <option name="LAST_COMMIT_MESSAGE" value="22_05_26 12:33 해결" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,6 +418,11 @@
           <url>file://$PROJECT_DIR$/src/study08/Number_1302.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study10/Number_10866.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

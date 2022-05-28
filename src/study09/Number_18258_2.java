@@ -17,6 +17,7 @@ import java.util.StringTokenizer;
 public class Number_18258_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        // print 사용시 시간초과 발생.
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         // int형 queue 선언, linkedList 이용.
