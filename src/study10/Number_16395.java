@@ -30,3 +30,5 @@ public class Number_16395 {
         System.out.println(T[N][K]);
     }
 }
+
+// 조합

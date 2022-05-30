@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ca52f3-0d69-43ab-95f7-01d318fe5d45" name="변경" comment="22_05_29 01:02">
-      <change afterPath="$PROJECT_DIR$/src/study10/Number_10815.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study10/Number_16395.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study10/Number_20364.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study10/Number_5107.java" afterDir="false" />
+    <list default="true" id="cefa2e0e-0008-404d-a23e-9fe2efa372bf" name="변경" comment="22_05_29 01:02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study10/Number_10815_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study10/Number_10815_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study10/Number_16395.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study10/Number_16395.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -433,6 +428,11 @@
           <url>file://$PROJECT_DIR$/src/study10/Number_10866.java</url>
           <line>33</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study10/Number_10815_2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
