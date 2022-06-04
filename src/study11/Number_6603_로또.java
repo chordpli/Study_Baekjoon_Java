@@ -13,7 +13,6 @@ public class Number_6603_로또 {
     static int K;
     static String[] arr;
     static boolean[] visited;
-
     static Set<String> lotto;
 
     public static void main(String[] args) throws IOException{
@@ -22,9 +21,7 @@ public class Number_6603_로또 {
 
             // 초기화
             String input = br.readLine();
-
             StringTokenizer st = new StringTokenizer(input);
-
             K = Integer.parseInt(st.nextToken());
 
             if(K == 0){
