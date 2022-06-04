@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4806d5-0b9b-445e-8c5e-6d98d19339dc" name="변경" comment="22_06_04 22:05">
-      <change afterPath="$PROJECT_DIR$/src/study12/Number_11721_열개씩끊어출력하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study12/Number_11721_열개씩끊어출력하기_2.java" afterDir="false" />
+    <list default="true" id="ae4806d5-0b9b-445e-8c5e-6d98d19339dc" name="변경" comment="22_06_04 22:37">
+      <change afterPath="$PROJECT_DIR$/src/study12/Number_14929_귀찮아.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study12/Number_14929_귀찮아_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study12/Number_14929_귀찮아_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study12/Number_14929_귀찮아_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/javaStudy/CodeTest/Study_Baekjoon_Java/src/study11&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/javaStudy/CodeTest/Study_Baekjoon_Java/src/study11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\javaStudy\CodeTest\Study_Baekjoon_Java\src\study11" />
@@ -63,7 +67,7 @@
       <recent name="study12" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Number_11721_열개씩끊어출력하기_2">
+  <component name="RunManager" selected="애플리케이션.Number_14929_귀찮아_3">
     <configuration name="Number_11721_열개씩끊어출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study12.Number_11721_열개씩끊어출력하기" />
       <module name="Study_Baekjoon_Java" />
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_16943_숫자재배치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study11.Number_16943_숫자재배치" />
+    <configuration name="Number_14929_귀찮아" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study12.Number_14929_귀찮아" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study11.*" />
+          <option name="PATTERN" value="study12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_5568_카드놓기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study11.Number_5568_카드놓기" />
+    <configuration name="Number_14929_귀찮아_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study12.Number_14929_귀찮아_2" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study11.*" />
+          <option name="PATTERN" value="study12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_6603_로또" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study11.Number_6603_로또" />
+    <configuration name="Number_14929_귀찮아_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study12.Number_14929_귀찮아_3" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study11.*" />
+          <option name="PATTERN" value="study12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Number_14929_귀찮아_3" />
+        <item itemvalue="애플리케이션.Number_14929_귀찮아_2" />
+        <item itemvalue="애플리케이션.Number_14929_귀찮아" />
         <item itemvalue="애플리케이션.Number_11721_열개씩끊어출력하기_2" />
         <item itemvalue="애플리케이션.Number_11721_열개씩끊어출력하기" />
-        <item itemvalue="애플리케이션.Number_16943_숫자재배치" />
-        <item itemvalue="애플리케이션.Number_6603_로또" />
-        <item itemvalue="애플리케이션.Number_5568_카드놓기" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +175,8 @@
       <workItem from="1654088190791" duration="5444000" />
       <workItem from="1654174961746" duration="4939000" />
       <workItem from="1654209209032" duration="6225000" />
-      <workItem from="1654346276395" duration="2311000" />
+      <workItem from="1654346276395" duration="6085000" />
+      <workItem from="1654353796209" duration="1639000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -411,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654348004015</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="22_06_04 22:37">
+      <created>1654349879969</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1654349879969</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +441,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="22_05_11 12:06" />
     <MESSAGE value="22_05_12 12:31 해설 참고" />
     <MESSAGE value="22_05_15 12:43" />
     <MESSAGE value="22_05_15 00:43" />
@@ -454,7 +465,8 @@
     <MESSAGE value="22_05_29 01:02 5568_카드놓기_재귀" />
     <MESSAGE value="22_06_02 23:54" />
     <MESSAGE value="22_06_04 22:05" />
-    <option name="LAST_COMMIT_MESSAGE" value="22_06_04 22:05" />
+    <MESSAGE value="22_06_04 22:37" />
+    <option name="LAST_COMMIT_MESSAGE" value="22_06_04 22:37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
