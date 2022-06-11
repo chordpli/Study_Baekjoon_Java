@@ -22,7 +22,6 @@ public class Number_16173_점프왕쩰리2 {
                 map[j][i] = Integer.parseInt(st.nextToken());
             }
         }
-
         br.close();
         bw.write(search(0, 0));
         bw.flush();
