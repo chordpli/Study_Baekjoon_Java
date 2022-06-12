@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4806d5-0b9b-445e-8c5e-6d98d19339dc" name="변경" comment="22_06_05 12:10 시간초과">
-      <change afterPath="$PROJECT_DIR$/src/study12/Number_1357_뒤집힌덧셈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study12/Number_1977_완전제곱수.java" afterDir="false" />
+    <list default="true" id="ae4806d5-0b9b-445e-8c5e-6d98d19339dc" name="변경" comment="22_06_12 17:42">
+      <change afterPath="$PROJECT_DIR$/src/study14/Number_16173_점프왕쩰리3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study14/Number_1699_제곱수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study14/Number_1699_제곱수의합.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,7 +57,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -61,16 +66,17 @@
       <recent name="C:\javaStudy\CodeTest\Study_Baekjoon_Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="study14" />
       <recent name="study12" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Number_1977_완전제곱수">
-    <configuration name="Number_1357_뒤집힌덧셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study12.Number_1357_뒤집힌덧셈" />
+  <component name="RunManager" selected="애플리케이션.Number_16173_점프왕쩰리3">
+    <configuration name="Number_11005_진법변환2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study14.Number_11005_진법변환2" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study12.*" />
+          <option name="PATTERN" value="study14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_14929_귀찮아" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study12.Number_14929_귀찮아" />
+    <configuration name="Number_11005_진법변환2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study14.Number_11005_진법변환2_2" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study12.*" />
+          <option name="PATTERN" value="study14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_14929_귀찮아_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study12.Number_14929_귀찮아_2" />
+    <configuration name="Number_16173_점프왕쩰리3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study14.Number_16173_점프왕쩰리3" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study12.*" />
+          <option name="PATTERN" value="study14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,25 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_14929_귀찮아_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study12.Number_14929_귀찮아_3" />
+    <configuration name="Number_1699_제곱수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number_1699_제곱수의합" />
       <module name="Study_Baekjoon_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_1977_완전제곱수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study12.Number_1977_완전제곱수" />
+    <configuration name="study14.Number_1699_제곱수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study14.Number_1699_제곱수의합" />
       <module name="Study_Baekjoon_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study12.*" />
+          <option name="PATTERN" value="study14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Number_1977_완전제곱수" />
-        <item itemvalue="애플리케이션.Number_1357_뒤집힌덧셈" />
-        <item itemvalue="애플리케이션.Number_14929_귀찮아_3" />
-        <item itemvalue="애플리케이션.Number_14929_귀찮아_2" />
-        <item itemvalue="애플리케이션.Number_14929_귀찮아" />
+        <item itemvalue="애플리케이션.Number_16173_점프왕쩰리3" />
+        <item itemvalue="애플리케이션.study14.Number_1699_제곱수의합" />
+        <item itemvalue="애플리케이션.Number_1699_제곱수의합" />
+        <item itemvalue="애플리케이션.Number_11005_진법변환2_2" />
+        <item itemvalue="애플리케이션.Number_11005_진법변환2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,20 @@
       <workItem from="1654209209032" duration="6225000" />
       <workItem from="1654346276395" duration="6085000" />
       <workItem from="1654353796209" duration="1691000" />
-      <workItem from="1654432705482" duration="3412000" />
+      <workItem from="1654432705482" duration="6864000" />
+      <workItem from="1654490745660" duration="1322000" />
+      <workItem from="1654496609558" duration="600000" />
+      <workItem from="1654517785271" duration="1032000" />
+      <workItem from="1654582066256" duration="4581000" />
+      <workItem from="1654731266286" duration="1339000" />
+      <workItem from="1654733540815" duration="12936000" />
+      <workItem from="1654852948773" duration="2384000" />
+      <workItem from="1654938319529" duration="86000" />
+      <workItem from="1654955201139" duration="4907000" />
+      <workItem from="1654962736996" duration="2620000" />
+      <workItem from="1654965403039" duration="63000" />
+      <workItem from="1655014114762" duration="5927000" />
+      <workItem from="1655039613344" duration="5537000" />
     </task>
     <task id="LOCAL-00001" summary="22_05_08 16:00 재업로드">
       <created>1651993608103</created>
@@ -428,7 +441,70 @@
       <option name="project" value="LOCAL" />
       <updated>1654355452405</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="22_06_06 01:04">
+      <created>1654445101088</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1654445101088</updated>
+    </task>
+    <task id="LOCAL-00038" summary="22_06_06 02:19 2인 초과의 경기 수 구현 필요">
+      <created>1654449561767</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1654449561767</updated>
+    </task>
+    <task id="LOCAL-00039" summary="22_06_09 22:58">
+      <created>1654783073638</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1654783073638</updated>
+    </task>
+    <task id="LOCAL-00040" summary="22_06_11 23:17">
+      <created>1654957027795</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1654957027795</updated>
+    </task>
+    <task id="LOCAL-00041" summary="22_06_12 01:34 메모리초과 해결">
+      <created>1654965412230</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1654965412230</updated>
+    </task>
+    <task id="LOCAL-00042" summary="22_06_12 01:34 메모리초과">
+      <created>1654965428661</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1654965428661</updated>
+    </task>
+    <task id="LOCAL-00043" summary="22_06_12 01:34 메모리초과 해결">
+      <created>1654965455884</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1654965455884</updated>
+    </task>
+    <task id="LOCAL-00044" summary="22_06_12 16:21">
+      <created>1655018492043</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1655018492043</updated>
+    </task>
+    <task id="LOCAL-00045" summary="22_06_12 17:42">
+      <created>1655023361759</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1655023361759</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,16 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="22_05_15 12:43" />
-    <MESSAGE value="22_05_15 00:43" />
-    <MESSAGE value="22_05_16 12:13" />
-    <MESSAGE value="22_05_16 01:33" />
-    <MESSAGE value="22_05_16 01:33 시간초과" />
-    <MESSAGE value="22_05_19 12:18" />
-    <MESSAGE value="22_05_19 01:39" />
-    <MESSAGE value="22_05_19 01:39 시간초과로 인한 실패" />
-    <MESSAGE value="22_05_19 10:01 주석추가" />
-    <MESSAGE value="22_05_20 01:54" />
     <MESSAGE value="22_05_20 01:54 카드 분배까지 완료, 게임 구현 실패" />
     <MESSAGE value="22_05_23 23:13 해시맵으로 접근하였으나 최대 값을 가진 키가 여러개일 경우 키 값을 정렬하지 못하여 실패" />
     <MESSAGE value="22_05_23 23:13 트리맵으로 해결" />
@@ -471,7 +537,17 @@
     <MESSAGE value="22_06_04 22:05" />
     <MESSAGE value="22_06_04 22:37" />
     <MESSAGE value="22_06_05 12:10 시간초과" />
-    <option name="LAST_COMMIT_MESSAGE" value="22_06_05 12:10 시간초과" />
+    <MESSAGE value="22_06_06 01:04" />
+    <MESSAGE value="22_06_06 02:19 2인 초과의 경기 수 구현 필요" />
+    <MESSAGE value="22_06_07 08:44" />
+    <MESSAGE value="22_06_09 22:58" />
+    <MESSAGE value="22_06_10 12:39" />
+    <MESSAGE value="22_06_11 23:17" />
+    <MESSAGE value="22_06_12 01:34 메모리초과" />
+    <MESSAGE value="22_06_12 01:34 메모리초과 해결" />
+    <MESSAGE value="22_06_12 16:21" />
+    <MESSAGE value="22_06_12 17:42" />
+    <option name="LAST_COMMIT_MESSAGE" value="22_06_12 17:42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
