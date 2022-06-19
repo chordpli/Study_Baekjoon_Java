@@ -27,7 +27,6 @@ public class Number_16922_로마숫자만들기2 {
             }
             return;
         }
-
         for(int i =start; i< 4; i++){
             dfs(depth+1, i, sum+number[i]);
         }
