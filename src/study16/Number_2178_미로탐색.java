@@ -65,7 +65,5 @@ public class Number_2178_미로탐색 {
             dfs(x, y-1, count + 1);
             visited[x][y-1] = false;
         }
-
-
     }
 }
