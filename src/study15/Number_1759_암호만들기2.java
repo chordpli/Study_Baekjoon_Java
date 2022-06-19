@@ -44,6 +44,7 @@ public class Number_1759_암호만들기2 {
             }
             if (v >= 1 && cc >= 2) System.out.println(sb);
         }
+
         //백트래킹
         for (int i = start; i < c; i++) {
             visited[i] = true;

@@ -41,6 +41,7 @@ public class Number_16173_점프왕쩰리2 {
                 search(x, y + map[x][y]);
             }
         }
+
         return result;
     }
 }
